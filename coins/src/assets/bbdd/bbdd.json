@@ -1,0 +1,403 @@
+[
+  {
+    "pais": "Corea del Sur",
+    "denominacion": "100 won",
+    "periodo_de_emision": "1970‑1982",
+    "referencia_catalogo": {
+      "KM": "9",
+      "Numista_N#": "1037"
+    },
+    "tipo": "Moneda de circulación",
+    "metal": "Cobre‑níquel (75 % Cu, 25 % Ni)",
+    "color": null,
+    "borde": "Estriado",
+    "diametro_mm": 24,
+    "peso_g": 5.42,
+    "diseñador": null,
+    "leyenda_anverso": "한국은행 (Banco de Corea)",
+    "leyenda_reverso": "100 원",
+    "diseno_reverso": "Denominación en numerales sobre fecha dentro de diseño circular",
+    "observaciones": "Introducida en 1970, acuñada hasta 1982 en cobre‑níquel, designación KM# 9.",
+    "fuentes": [
+      "uCoin – Corea del Sur 100 won 1970‑1982 (tid=24851)",
+      "Numista – Corea del Sur 100 won 1970‑1982 (N#1037)"
+    ]
+  },
+  {
+    "pais": "Egipto",
+    "denominacion": "5 piastres",
+    "anio": 1984,
+    "referencia_catalogo": {
+      "KM": "622",
+      "Numista_N#": "1816"
+    },
+    "tipo": "Moneda de circulación",
+    "metal": "Aluminio‑bronce",
+    "color": null,
+    "borde": "Liso",
+    "diametro_mm": 23,
+    "peso_g": 4.9,
+    "diseñador": "Abdul Fattah Wahba",
+    "grabador": "Ibrahim El Helw",
+    "leyenda_anverso": "جمهورية مصر العربية / ٥ قروش / ١٤٠٤‑١٩٨٤",
+    "leyenda_reverso": null,
+    "diseno_reverso": "Tres pirámides de Giza",
+    "observaciones": "KM# 622.1/622.2, serie Pirámides de Giza; diámetro 23 mm, peso aprox. 4.9 g.",
+    "fuentes": [
+      "uCoin – Egipto 5 piastres 1984 (tid=44830)",
+      "Numista – Egipto 5 Qirsh 1404‑1984 (N# 1816)"
+    ]
+  },
+  {
+    "pais": "Francia",
+    "denominacion": "5 centimes",
+    "periodo_de_emision": "1966‑2001",
+    "referencia_catalogo": {
+      "KM": "933",
+      "Numista_N#": null
+    },
+    "tipo": "Moneda de circulación",
+    "metal": "Aluminio‑bronce",
+    "color": null,
+    "borde": "Liso",
+    "diametro_mm": 17,
+    "peso_g": 2,
+    "diseñador": "Henri Lagriffoul",
+    "leyenda_anverso": "REPUBLIQUE FRANÇAISE",
+    "leyenda_reverso": "5 CENTIMES",
+    "diseno_reverso": "Rama de olivo y espigas con valor y fecha",
+    "observaciones": "KM# 933. Serie emitida 1966‑2001. Composición aluminio‑bronce, diámetro ~17 mm, peso ~2 g.",
+    "fuentes": [
+      "uCoin – Francia 5 centimes 1966‑2001 (tid=6951)"
+    ]
+  },
+  {
+    "pais": "Francia",
+    "denominacion": "½ franc",
+    "periodo_de_emision": "1965‑2001",
+    "referencia_catalogo": {
+      "KM": "931 (o 933 en algunas fuentes)",
+      "Numista_N#": null
+    },
+    "tipo": "Moneda de circulación",
+    "metal": "Níquel (o aluminio‑bronce)",
+    "color": null,
+    "borde": "Estriado",
+    "diametro_mm": 19.5,
+    "peso_g": 4.5,
+    "diseñador": "Oscar Roty (basado en La Semeuse)",
+    "leyenda_anverso": "REPUBLIQUE FRANÇAISE",
+    "leyenda_reverso": "½ FRANC / LIBERTÉ ÉGALITÉ FRATERNITÉ",
+    "diseno_reverso": "Rama de olivo y valor ½ FRANC bajo diseño La Semeuse",
+    "observaciones": "Serie 1965‑2001. Acuñada en Francia durante la Vª República. Diámetro ~19.5 mm, peso ~4.5 g.",
+    "fuentes": [
+      "uCoin – Francia ½ franc 1965‑2001 (tid=7085)"
+    ]
+  },
+  {
+    "pais": "Francia",
+    "denominacion": "1 franco",
+    "anio": 1941,
+    "referencia_catalogo": {
+      "KM": "885a.1",
+      "Numista_N#": "708",
+      "Franc_2014": "221/2"
+    },
+    "tipo": "Moneda de circulación",
+    "metal": "Aluminio",
+    "color": "gris / aluminio",
+    "borde": "Liso",
+    "diametro_mm": 23,
+    "peso_g": 1.3,
+    "diseñador": "Pierre‑Alexandre Morlon",
+    "leyenda_anverso": "REPUBLIQUE FRANÇAISE",
+    "leyenda_reverso": "LIBERTÉ – ÉGALITÉ – FRATERNITÉ",
+    "diseno_reverso": "Denominación y fecha entre dos cuernos de la abundancia",
+    "observaciones": "Emisión tipo 'light' de aluminio. Fechada 1941, algunas piezas acuñadas en 1944 tras liberación de París.",
+    "fuentes": [
+      "uCoin – Francia 1 franco 1941 (cid=30732)",
+      "Numista entrada detallada – 708"
+    ]
+  },
+  {
+    "pais": "Francia",
+    "denominacion": "5 francos",
+    "anio": 1945,
+    "referencia_catalogo": {
+      "KM": "888a",
+      "Numista_N#": null
+    },
+    "tipo": "Moneda de circulación",
+    "metal": "Aluminio‑bronce",
+    "color": "amarillo / bronce‑aluminio",
+    "borde": "Liso",
+    "diametro_mm": 31,
+    "peso_g": 12,
+    "diseñador": null,
+    "leyenda_anverso": "REPUBLIQUE FRANÇAISE",
+    "leyenda_reverso": "5 FRANCS",
+    "diseno_reverso": null,
+    "observaciones": "Serie 1945‑1952, composición aluminio‑bronce.",
+    "fuentes": [
+      "uCoin – Francia 5 francos 1945 (cid=10175)"
+    ]
+  },
+  {
+    "pais": "Italia",
+    "denominacion": "10 lire",
+    "periodo_de_emision": "1951‑2001",
+    "referencia_catalogo": {
+      "KM": "93",
+      "Numista_N#": "728"
+    },
+    "tipo": "Moneda de circulación",
+    "metal": "Aluminio (~96.2 %) + Mg + Mn",
+    "color": null,
+    "borde": "Liso",
+    "diametro_mm": 23.25,
+    "peso_g": 1.6,
+    "diseñador": "Giuseppe Romagnoli",
+    "leyenda_anverso": "REPVBBLICA ITALIANA",
+    "leyenda_reverso": "10 LIRE",
+    "diseno_reverso": "Dos espigas de trigo que enmarcan el valor",
+    "observaciones": "Serie 1951‑2001; composición aluminio; KM# 93. Diámetro ~23.25 mm, peso ~1.6 g.",
+    "fuentes": [
+      "uCoin – Italia 10 lire 1951‑2001 (tid=9501)",
+      "Numista – Italia 10 lire (N#728)"
+    ]
+  },
+  {
+    "pais": "Italia",
+    "denominacion": "50 lire",
+    "periodo_de_emision": "1954‑1989",
+    "referencia_catalogo": {
+      "KM": "95.1",
+      "Numista_N#": "724"
+    },
+    "tipo": "Moneda de circulación",
+    "metal": "Acmonital (81.75 % hierro, 18.25 % cromo)", 
+    "color": null,
+    "borde": "Estriado",
+    "diametro_mm": 24.8,
+    "peso_g": 6.25,
+    "diseñador": "Pietro Giampaoli",
+    "leyenda_anverso": "REPVBBLICA ITALIANA",
+    "leyenda_reverso": "L.50",
+    "diseno_reverso": "El dios Vulcano golpeando el hierro sobre un yunque",
+    "observaciones": "Serie 1954‑1989; composición Acmonital; diámetro ~24.8 mm; peso ~6.25 g.",
+    "fuentes": [
+      "uCoin – Italia 50 lire 1954‑1989 (tid=9567)",
+      "Numista – Italia 50 lire (N#724)"
+    ]
+  },
+  {
+    "pais": "Jordania",
+    "denominacion": "1 fils",
+    "periodo_de_emision": "1978‑1985",
+    "referencia_catalogo": {
+      "KM": "35",
+      "Numista_N#": null
+    },
+    "tipo": "Moneda de circulación",
+    "metal": null,
+    "color": null,
+    "borde": null,
+    "diametro_mm": null,
+    "peso_g": null,
+    "gobernante": "Hussein",
+    "leyenda_anverso": null,
+    "leyenda_reverso": null,
+    "diseno_reverso": null,
+    "observaciones": null,
+    "fuentes": [
+      "uCoin – Jordania 1 fils 1978‑1985 (tid=42301)"
+    ]
+  },
+  {
+    "pais": "México",
+    "denominacion": "20 pesos",
+    "periodo_de_emision": "1985‑1990",
+    "referencia_catalogo": {
+      "KM": "508",
+      "Numista_N#": null
+    },
+    "tipo": "Moneda de circulación",
+    "metal": null,
+    "color": null,
+    "borde": "Estriado",
+    "diametro_mm": null,
+    "peso_g": null,
+    "diseñador": null,
+    "leyenda_anverso": null,
+    "leyenda_reverso": null,
+    "diseno_reverso": null,
+    "observaciones": "Serie 20 pesos 1985‑1990. KM# 508. Acuñaciones variables por año.",
+    "fuentes": [
+      "uCoin – México 20 pesos 1985‑1990 (tid=10840)"
+    ]
+  },
+  {
+    "pais": "México",
+    "denominacion": "5 pesos",
+    "periodo_de_emision": "1997‑2025",
+    "referencia_catalogo": {
+      "KM": "605",
+      "Numista_N#": null
+    },
+    "tipo": "Moneda de circulación",
+    "metal": "Bimetálica",
+    "color": null,
+    "borde": "Estriado",
+    "diametro_mm": 25.5,
+    "peso_g": 7.07,
+    "diseñador": null,
+    "leyenda_anverso": null,
+    "leyenda_reverso": null,
+    "diseno_reverso": null,
+    "observaciones": "Serie 5 pesos 1997‑2025. KM# 605. Peso ≈7.07 g, diámetro ≈25.5 mm.",
+    "fuentes": [
+      "uCoin – México 5 pesos 1997‑2025 (tid=10463)"
+    ]
+  },
+  {
+    "pais": "México",
+    "denominacion": "10 pesos",
+    "periodo_de_emision": "1997‑2025",
+    "referencia_catalogo": {
+      "KM": "616",
+      "Numista_N#": null
+    },
+    "tipo": "Moneda de circulación",
+    "metal": "Bimetálica",
+    "color": null,
+    "borde": "Estriado",
+    "diametro_mm": 27.95,
+    "peso_g": 10.33,
+    "diseñador": null,
+    "leyenda_anverso": null,
+    "leyenda_reverso": null,
+    "diseno_reverso": null,
+    "observaciones": "Serie 10 pesos 1997‑2025. KM# 616. Peso ≈10.33 g, diámetro ≈27.95 mm.",
+    "fuentes": [
+      "uCoin – México 10 pesos 1997‑2025 (tid=10480)"
+    ]
+  },
+  {
+    "pais": "Portugal",
+    "denominacion": "2,5 escudos",
+    "periodo_de_emision": "1963‑1985",
+    "referencia_catalogo": {
+      "KM": "590",
+      "Numista_N#": "774"
+    },
+    "tipo": "Moneda de circulación",
+    "metal": "Cobre‑níquel (75 % Cu, 25 % Ni)", 
+    "color": null,
+    "borde": "Estriado",
+    "diametro_mm": 20,
+    "peso_g": 3.5,
+    "diseñador": "Jaime Martins Barata (anverso) / Marcelino Norte de Almeida (reverso)",
+    "leyenda_anverso": "REPÚBLICA PORTUGUESA + [año]",
+    "leyenda_reverso": "2$50 / MARTINS BARATA DEL. M. NORTE SCULP.",
+    "diseno_reverso": "Carabela portuguesa navegando a la derecha", 
+    "observaciones": "KM# 590. Serie emitida 1963‑1985; diámetro 20 mm; peso ~3.5 g.",
+    "fuentes": [
+      "uCoin – Portugal 2,5 escudos 1963‑1985 (tid=16229)",
+      "Coinz.eu – Portugal 2,5 escudos 1963‑1985"
+    ]
+  },
+  {
+    "pais": "Portugal",
+    "denominacion": "5 escudos",
+    "periodo_de_emision": "1963‑1986",
+    "referencia_catalogo": {
+      "KM": "591",
+      "Numista_N#": "772"
+    },
+    "tipo": "Moneda de circulación",
+    "metal": "Cobre‑níquel (≈ 75% Cu, 25% Ni)", 
+    "color": null,
+    "borde": "Estriado",
+    "diametro_mm": 24.5,
+    "peso_g": 7,
+    "diseñador": "Jaime Martins Barata (anverso) / Marcelino Norte de Almeida (reverso)",
+    "leyenda_anverso": "REPUBLICA PORTUGUESA + [año]",
+    "leyenda_reverso": "5$00 / MARTINS BARATA DEL. M. NORTE SCULP.",
+    "diseno_reverso": "Carabela portuguesa navegando a la derecha",
+    "observaciones": "KM# 591. Serie emitida 1963‑1986; diámetro ~24.5 mm; peso ~7 g.",
+    "fuentes": [
+      "uCoin – Portugal 5 escudos 1963‑1986 (tid=16246)",
+      "WorldCoinsCatalog – Portugal 5 escudos (1963‑1986)"
+    ]
+  },
+  {
+    "pais": "Portugal",
+    "denominacion": "20 escudos",
+    "periodo_de_emision": "1986‑2001",
+    "referencia_catalogo": {
+      "KM": "634",
+      "Numista_N#": "1243"
+    },
+    "tipo": "Moneda de circulación",
+    "metal": "Cobre‑níquel (Cu750 Ni250)",
+    "color": null,
+    "borde": "Festoneado/estriado",
+    "diametro_mm": 26.5,
+    "peso_g": 6.9,
+    "diseñador": "Euclides Vaz",
+    "leyenda_anverso": "REPUBLICA PORTUGUESA 20 ESCUDOS YEAR E.VAZ INCM",
+    "leyenda_reverso": "Compás náutico con cruz de la Orden de Cristo",
+    "diseno_reverso": "Rosa de los vientos de dieciséis puntas con la cruz de la Orden de Cristo en el punto este",
+    "observaciones": "KM# 634. Serie emitida 1986‑2001; diámetro 26.5 mm, peso 6.9 g. Varias matrices conocidas (KM# 634.1 y 634.2).",
+    "fuentes": [
+      "uCoin – Portugal 20 escudos 1986‑2001 (tid=16292)",
+      "Numista – Portugal 20 escudos N#1243 (serie 1986‑2001)"
+    ]
+  },
+  {
+  "pais": "Turquía",
+  "denominacion": "1 lira",
+  "periodo_de_emision": "2009‑2022",
+  "referencia_catalogo": {
+    "KM": null,
+    "Numista_N#": null
+  },
+  "tipo": "Moneda de circulación",
+  "metal": "Bimetálica (centro: cuproníquel, anillo: bronce‑aluminio)",
+  "color": null,
+  "borde": "Estriado",
+  "diametro_mm": 26.15,
+  "peso_g": 8.0,
+  "diseñador": null,
+  "leyenda_anverso": null,
+  "leyenda_reverso": null,
+  "diseno_reverso": null,
+  "observaciones": "Serie moderna de circulación 2009‑2022, valor nominal 1 lira, diseño nacional de Turquía.",
+  "fuentes": [
+    "uCoin – Turquía 1 lira 2009‑2022 (tid=5701)"
+  ]
+},{
+  "pais": "Baréin",
+  "denominacion": "10 fils",
+  "periodo_de_emision": "1991‑2000",
+  "referencia_catalogo": {
+    "KM": "17",
+    "Numista_N#": "2739"
+  },
+  "tipo": "Moneda de circulación",
+  "metal": "Latón (brass)", 
+  "color": null,
+  "borde": "Liso",
+  "diametro_mm": 21,
+  "peso_g": 3.35,
+  "diseñador": null,
+  "leyenda_anverso": "دولة البحرين / STATE OF BAHRAIN",
+  "leyenda_reverso": "10 فلس",
+  "diseno_reverso": "Valor 10 fils inscrito en árabe dentro de marco circular",
+  "observaciones": "KM# 17. Serie emitida 1991‑2000 en Baréin. Composición latón, diámetro ~21 mm, peso ~3.35 g. :contentReference[oaicite:1]{index=1}",
+  "fuentes": [
+    "Numista – Baréin 10 fils (1991‑2000) (N#2739)",
+    "Foronum – Baréin 10 fils (1991‑2000) (KM#17) :contentReference[oaicite:2]{index=2}"
+  ]
+}
+]

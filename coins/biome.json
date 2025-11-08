@@ -28,9 +28,7 @@
   "assist": {
     "enabled": true,
     "actions": {
-      "source": {
-       
-      }
+      "source": {}
     }
   }
 }
