@@ -1,0 +1,20 @@
+<div class="container">
+  <h2>Crear Moneda</h2>
+  <form [formGroup]="createMonedaForm" (ngSubmit)="onSubmit()">
+    
+    <mat-form-field appearance="fill">
+      <mat-label>País</mat-label>
+      <input matInput formControlName="pais" placeholder="Ej: España">
+    </mat-form-field>
+
+    <mat-form-field appearance="fill">
+      <mat-label>Nombre</mat-label>
+      <input matInput formControlName="nombre" placeholder="Ej: Euro">
+    </mat-form-field>
+
+    <button mat-raised-button color="primary" type="submit" [disabled]="!createMonedaForm.valid">
+      Crear
+    </button>
+
+  </form>
+</div>
