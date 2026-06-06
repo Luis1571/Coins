@@ -2,11 +2,13 @@ import { CommonModule } from "@angular/common";
 import { Component } from "@angular/core";
 import { FormsModule } from "@angular/forms";
 import { MatButtonModule } from "@angular/material/button";
+import { MatDialog, MatDialogModule } from "@angular/material/dialog";
+import { DialogLorenzoComponent } from "./dialog-lorenzo.component";
 
 @Component({
   selector: "app-root",
   standalone: true,
-  imports: [CommonModule, FormsModule, MatButtonModule],
+  imports: [CommonModule, FormsModule, MatButtonModule, MatDialogModule],
   templateUrl: "./app.component.html",
   styleUrls: ["./app.component.scss"],
 })
@@ -14,7 +16,12 @@ export class AppComponent {
   // pnpm exec biome format --write
   // pnpm start
   title = "coins";
-  searchPais: string = ""; // variable para el input
+  searchPais: string = "";
+
+  constructor(private dialog: MatDialog) {}
+  abrirDialogoLorenzo() {
+    this.dialog.open(DialogLorenzoComponent);
+  }
 
   monedas = [
     {

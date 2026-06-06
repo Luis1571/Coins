@@ -1,7 +1,10 @@
 <div class="table-container">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/2013_Euro_Coins.png/800px-2013_Euro_Coins.png" alt="Moneda" width="100" />
   <label for="search">Buscar por país:</label>
   <input id="search" type="text" [(ngModel)]="searchPais" placeholder="Escribe un país..." />
   <button mat-raised-button color="primary">Basic</button>
+  <button mat-raised-button style="background-color: red; color: white;">Boton IA</button>
+  <button mat-raised-button style="background-color: brown; color: white; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" (click)="abrirDialogoLorenzo()">HOLA</button>
   <table>
     <thead>
       <tr>
