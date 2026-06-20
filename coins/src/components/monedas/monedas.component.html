@@ -1,7 +1,7 @@
 <div class="table-container">
-  <label for="search">Buscar por país:</label>
-  <input id="search" type="text" [(ngModel)]="searchPais" placeholder="Escribe un país..." />
-<mat-button mat-raised-button color="primary" (click)="edit()">Basic</mat-button>  
+  <label for="search">Buscar:</label>
+  <input id="search" type="text" [(ngModel)]="searchPais" placeholder="Busca por país, moneda o año..." />
+<button mat-raised-button color="primary">Basic</button>  
   <table>
     <thead>
       <tr>
@@ -11,16 +11,18 @@
         <th>Leyenda Anverso</th>
         <th>Leyenda Reverso</th>
         <th>Diseño Reverso</th>
+        <th>Enlace</th>
       </tr>
     </thead>
     <tbody>
 <tr *ngFor="let moneda of monedasFiltradas">
-  <td>moneda.pais</td>
+  <td>{{ moneda.pais }}</td>
   <td>{{ moneda.denominacion }}</td>
-  <td>{{ moneda.periodoDeEmision || moneda.anio }}</td>
+  <td>{{ moneda.periodoDeEmision }}</td>
   <td>{{ moneda.leyendaAnverso || '-' }}</td>
   <td>{{ moneda.leyendaReverso || '-' }}</td>
   <td>{{ moneda.disenoReverso || '-' }}</td>
+  <td><a [href]="getCoinUrl(moneda)" target="_blank" rel="noopener">Ver en uCoin</a></td>
 </tr>
     </tbody>
   </table>
